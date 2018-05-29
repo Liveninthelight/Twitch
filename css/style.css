@@ -4,9 +4,7 @@ body{
   font-family:'Lobster';
   background-size:cover;
 }
-#youTubeIcon{
-  color:red;
-}
+
 #header{
 background:rgba(0, 0, 0, 0.75);
   border: 5px white solid;
